@@ -115,7 +115,7 @@ npm run build
 
 ---
 
-## ✨ Future Improvements
+##  Future Improvements
 
 *  Add to Cart functionality
 *  User Authentication
